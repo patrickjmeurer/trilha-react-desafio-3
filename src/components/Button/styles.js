@@ -1,9 +1,10 @@
-import styled, {css}  from 'styled-components';
+import styled, { css } from 'styled-components';
 
 export const ButtonContainer = styled.button`
     background: #565656;
     border-radius: 22px;
     position: relative;
+    border: none;
 
     color: #FFFFFF;
     padding: 2px 12px;

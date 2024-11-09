@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 import { ButtonContainer } from './styles';
 
@@ -8,4 +8,5 @@ const Button = ({title,variant = "primary", onClick}) => {
   )
 }
 
-export { Button }
+export { Button };
+
